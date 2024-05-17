@@ -1,6 +1,6 @@
 
 export default function Home() {
   return (
-    <h1>Hola Mundo Next.js</h1>
+    <h1>Ingresa http://localhost:3000/admin/orders</h1>
   );
 }
